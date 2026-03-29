@@ -8,8 +8,10 @@
         <div style="flex: 1;">
             <h3 style="font-size: 28px; font-weight: bold;">About Me:</h3>
             <ul style="list-style-type: none; padding-left: 0;">
-                <li>🎓 Computer Science student at University of Information Technology</li>
-                <li>💻 AI Engineer & Researcher passionate about machine learning</li>
+                <li>🎓 Computer Science student at University of Information Technology, Vietnam</li>
+                <li>🤖 AI Engineer & Researcher specializing in Generative AI and RAG systems</li>
+                <li>📊 Passionate about translating cutting-edge research into production-ready solutions</li>
+                </ul>
             </ul>
         </div>
     </div>

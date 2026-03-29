@@ -50,34 +50,26 @@
             <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
         </p>
         
-        <div class="markdown-heading" dir="auto">
-            <h2 class="heading-element" dir="auto">📊 GitHub Stats</h2>
-        </div>
-        <p align="center" dir="auto">
-            <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=HTDKhoa&show_icons=true&theme=dark&hide_rank=true">
-                <img src="https://github-readme-stats.vercel.app/api?username=HTDKhoa&show_icons=true&theme=dark&hide_rank=true" alt="GitHub Stats" style="max-width: 100%;"/>
-            </a>
-            <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=HTDKhoa&layout=compact&theme=dark">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTDKhoa&layout=compact&theme=dark" alt="Top Languages" style="max-width: 100%;"/>
-            </a>
-        </p>
-        
-        <div class="markdown-heading" dir="auto">
-            <h2 class="heading-element" dir="auto">🎯 Featured Projects</h2>
-        </div>
-        <p align="center" dir="auto">
-            <strong>Update this section with your recent projects</strong><br>
-            Coming soon! Check out my repositories for more details.
-        </p>
-        
-        <div class="markdown-heading" dir="auto">
-            <h2 class="heading-element" dir="auto">My Contributions 📈</h2>
-        </div>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HTDKhoa/HTDKhoa/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HTDKhoa/HTDKhoa/output/github-contribution-grid-snake.svg">
-          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HTDKhoa/HTDKhoa/output/github-contribution-grid-snake.svg">
-        </picture>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HTDKhoa&show_icons=true&theme=dark&hide_rank=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTDKhoa&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
+
+## 🎯 Featured Projects
+
+Update this section with your recent projects. Coming soon! Check out my repositories for more details.
+
+## My Contributions 📈
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HTDKhoa/HTDKhoa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HTDKhoa/HTDKhoa/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HTDKhoa/HTDKhoa/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
     </div>
 </div>
 

@@ -4,7 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73961&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Khoa+%F0%9F%98%8A" alt="Typing SVG" /></a>
     </h1>
     <div id="aboutme" style="display: flex; align-items: flex-start; gap: 15px;">
-        <img alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2U3MjZvdG9tM3Bya2t0OHk4MHR2NXhwaTY1dTFienAyeHcxaXpobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1jemIPRhJO99OnK1Zv/giphy.gif" width="250px" height="250px" />
+        <img alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2U3MjZvdG9tM3Bya2t0OHk4MHR2NXhwaTY1dTFienAyeHcxaXpobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1jemIPRhJO99OnK1Zv/giphy.gif" width="240px" height="240px" />
         <div style="flex: 1;">
             <h3 style="font-size: 28px; font-weight: bold;">About Me:</h3>
             <ul style="list-style-type: none; padding-left: 0;">

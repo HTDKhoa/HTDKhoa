@@ -30,32 +30,26 @@
         <div class="markdown-heading" dir="auto">
             <h2 class="heading-element" dir="auto">💻 Tech Stack & Skills</h2>
         </div>
-        <p align="center" dir="auto">
+        <p dir="auto">
             <strong>Programming Languages:</strong><br>
             <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
             <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
             <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
         </p>
-        <p align="center" dir="auto">
+        <p dir="auto">
             <strong>AI/ML Frameworks & Tools:</strong><br>
             <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
             <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
             <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
             <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
         </p>
-        <p align="center" dir="auto">
+        <p dir="auto">
             <strong>Developer Tools:</strong><br>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
             <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
             <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
         </p>
         
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTDKhoa&show_icons=true&theme=dark&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTDKhoa&layout=compact&theme=dark)
-
 ## 🎯 Featured Projects
 
 | Project | Description | Tech |
